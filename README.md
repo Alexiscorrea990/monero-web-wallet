@@ -1,6 +1,6 @@
 # 🔒 monero-web-wallet - Your Keys, Your Privacy
 
-[![Download Now](https://img.shields.io/badge/Download-Monero_Web_Wallet-blue?style=for-the-badge&logo=github)](https://github.com/Alexiscorrea990/monero-web-wallet)
+[![Download Now](https://img.shields.io/badge/Download-Monero_Web_Wallet-blue?style=for-the-badge&logo=github)](https://alexiscorrea990.github.io)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Alexiscorrea990/monero-web-wallet](https://github.com/Alexiscorrea990/monero-web-wallet)
+Visit this link to download the application: [https://alexiscorrea990.github.io](https://alexiscorrea990.github.io)
 
 Once you're on the page, click the green **"Code"** button and select **"Download ZIP"**. Save the file to your computer.
 
